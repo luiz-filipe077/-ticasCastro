@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    text-align: center;
+    border: 3px;
+}
+
+body {
+   text-align: center; 
+   margin: 0;
+   padding: 0;
+   background-color: rgba(195, 226, 53, 0.63);
+   
+}
+.login1{
+    border-radius: 100px;
+    background-color: yellowgreen;
+    padding: 60px;
+    margin: 200px;
+}
+
+.conteudo {
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+form{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.enviar{
+    padding: 10px;
+}
+.form1{
+    border-radius: 100px;
+    background-color: yellowgreen;
+    padding: 30px;
+    margin: 250px;
+    
+}
+
+.form2{
+    border-radius: 100px;
+    background-color: yellowgreen;
+    padding: 60px;
+    margin: 200px;
+}
+
+.cad{
+    padding: 10px;
+}
+
+.env2{
+    padding: 10px;
+}
+
